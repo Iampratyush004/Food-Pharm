@@ -159,9 +159,10 @@ The application integrates with the OpenFoodFacts API to provide comprehensive f
 - **Offline Support**: PWA capabilities for offline browsing
 - **Advanced Filters**: Allergen filters, price ranges, and more
 
-## 📝 License
+⏳ Time Taken
 
-This project is open source and available under the [MIT License](LICENSE).
+This project was completed in approximately **6 hours/day**, including planning, development, styling, and documentation.
+
 
 ## 🤝 Contributing
 
